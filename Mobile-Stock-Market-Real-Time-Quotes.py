@@ -29,7 +29,7 @@ def sendLine(mode, real_price, counter_line, token):
         print("發送訊息失敗！")
     return counter_line
 
-my_token = "htZhpWBs9OLe0VappdO5rnSzZhqbZP9N3oEbq1jgoW3"
+my_token = {Your token}
 counter_line = 0
 counter_error = 0
 
